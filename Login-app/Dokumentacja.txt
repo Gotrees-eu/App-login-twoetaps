@@ -1,4 +1,5 @@
 Witam oto poszczególne kroki jeżeli by coś nie działo!
+Użycie framekworku Phalcon
 
 1.Jeżeli mail by nie działa:
 Instrukcja w postaci flimiku:
